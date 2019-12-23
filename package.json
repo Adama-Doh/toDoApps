@@ -1,0 +1,23 @@
+{
+  "name": "build",
+  "version": "1.0.0",
+  "description": "",
+  "main": "precache-manifest.0e3b1ffcbd1d84cf837dc5e171e8689a.js",
+  "scripts": {
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adama-Doh/toDoApps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adama-Doh/toDoApps/issues"
+  },
+  "homepage": "https://adama-doh.github.io/toDoApps/",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
